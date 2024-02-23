@@ -1,0 +1,19 @@
+.container{
+   
+    background-color:aquamarine;
+    color: black;
+    font-weight:bold;
+   
+}
+.boss{
+    background-color: aquamarine;
+}
+.lines{
+    background-color: rgb(204, 243, 141);
+    color: blue;
+    text-align: center;
+}
+.section{
+    background-color:rgb(248, 48, 22);
+    
+}
